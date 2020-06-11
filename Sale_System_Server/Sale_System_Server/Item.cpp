@@ -1,6 +1,6 @@
 #include "Item.h"
 
-
+//아이템 정보 업데이트
 Item::Item(const int _num,const char* _name, const int _price, const int client_max)
 {
 
