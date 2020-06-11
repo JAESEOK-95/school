@@ -19,6 +19,7 @@ private:
 	int ItemNumber;
 	int MultiPortNumber;		//멀티캐스트 포트넘버
 	Item* ItemList[3];  //기본 3개 만들기
+	//PORT
 
 
 };
